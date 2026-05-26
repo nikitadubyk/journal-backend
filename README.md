@@ -32,7 +32,7 @@ A full-stack application for logging daily work records with filtering by date.
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/nikitadubyk/journal-backend.git>
+git clone https://github.com/nikitadubyk/journal-backend.git
 ```
 
 ### 2. Configure environment variables
