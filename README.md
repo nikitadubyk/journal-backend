@@ -35,7 +35,13 @@ A full-stack application for logging daily work records with filtering by date.
 git clone https://github.com/nikitadubyk/journal-backend.git
 ```
 
-### 2. Configure environment variables
+### 2. Install modules and configure environment variables
+
+Install dependencies
+
+```bash
+npm install
+```
 
 Copy the example env file and fill in your values:
 
